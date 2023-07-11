@@ -1,0 +1,29 @@
+.input {
+    min-height: 40px;
+    max-width: 170px;
+    padding: 0 1rem;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 12px;
+    background-color: rgba(245, 245, 245, 0.337);
+    margin-right: 4px;
+  }
+  
+  .buscar {
+    
+    background-color:  rgb(199, 43, 43);
+    color: rgb(255, 255, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 12px;
+    font-size: 18px;
+    padding-right: 8px;
+    
+}
+  .buscar:hover {
+    background-color: rgba(45, 97, 146, 0.575);
+    color: rgb(231, 231, 26);
+    border: rgb(231, 231, 26) 1px solid;
+  }

@@ -1,0 +1,19 @@
+ .filtros{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 20px;
+    flex-wrap: wrap;
+    
+}
+.orden{
+
+    background-color: rgb(51, 43, 43);
+    color:rgb(223, 23, 23);
+    font-size: 18px;
+    border-radius: 12px;
+}
+
+
+
+

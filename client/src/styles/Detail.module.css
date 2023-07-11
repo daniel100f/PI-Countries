@@ -1,0 +1,38 @@
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+
+.caracteristicas{
+    margin-right: 100px;
+    
+   background-color: rgb(51, 43, 43);
+    width: 300px;
+    height: 350px;
+    border-radius: 12px;
+    text-align: center;
+    }
+
+.caracteristicas p{
+    padding-top: 5px;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.caracteristicas h1{
+    margin-top: 10px;
+    font-family:'Times New Roman', Times, serif ;
+}
+.imagen{
+   background-color: rgb(51, 43, 43);
+    height: 250px;
+    width: 340px;
+    padding-top: 8px;
+    padding-left: 29px;
+    border-radius: 12px;
+}
+.detalle{
+    color: rgb(199, 24, 24);
+}
